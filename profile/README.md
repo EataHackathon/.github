@@ -17,6 +17,8 @@ EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 �
 2.	개인 맞춤 식단 정보 부재 해결
 3.	요리·재료 단위의 확인 불가 문제 해결
 
+[배포 링크](http://eata-fe.s3-website.ap-northeast-2.amazonaws.com/)
+
 ---
 
 > ## 2. 개발 인원
