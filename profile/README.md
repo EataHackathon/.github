@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ba6c71e9-f492-45c7-a53d-14590aac39a3" alt="EATAMAMA Logo" width="220" height="220">
+  <img src="./assets/logo.png" alt="EATAMAMA Logo" width="220" height="220">
   <h1>EATAMAMA</h1>
   <p><b>임산부 맞춤형 음식 검색 및 식단관리 서비스</b><br>
   <i>“먹어도 될까?”를 “안심하고 먹자!”로 바꿉니다.</i></p>
@@ -31,19 +31,21 @@ EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 �
 > ## 3. 소프트웨어 아키텍쳐
 
 <p align="center">
-  <img width="1062" height="772" alt="image" src="https://github.com/user-attachments/assets/77602cc4-887e-4df3-b2c1-1f21143a3e42" />
+  <img width="1062" height="772" alt="image" src="./assets/architecture.png" />
 </p>
 
 ---
 
-> ## 4.1 로그인 페이지
-<img width="318" height="686" alt="스크린샷 2025-09-13 오후 10 48 34" src="https://github.com/user-attachments/assets/2993b350-2821-4256-aa77-b1c9b155749a" />
+> ### 4.1 로그인 페이지
+<img width="318" height="686" alt="로그인" src="./assets/login.png" />
 
-> ## 4.2 메인 페이지
-<img width="400" height="1300" alt="image" src="https://github.com/user-attachments/assets/7dda3871-d9b4-4d5b-9f52-baa0e8179f4c" />
+---
 
-> ## 4.3 검색 페이지
-<img width="400" height="1300" alt="image" src="https://github.com/user-attachments/assets/7dda3871-d9b4-4d5b-9f52-baa0e8179f4c" />
+> ### 4.2 메인 페이지
+<img width="400" height="1300" alt="메인 페이지" src="./assets/main.png" />
+
+> ### 4.3 검색 페이지
+<img width="400" height="1300" alt="검색 페이지" src="./assets/search.png" />
 ---
 
 > ## 주요 기능
