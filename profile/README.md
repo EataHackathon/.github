@@ -8,7 +8,7 @@
 
 ---
 
-> ### 1. 서비스 소개
+> ## 1. 서비스 소개
 EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 정보**를 반영해  
 **안전한 음식 선택과 식단 추천**을 제공하는 서비스입니다.
 
@@ -28,34 +28,32 @@ EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 �
 
 ---
 
-> ### 3. 소프트웨어 아키텍쳐
+> ## 3. 소프트웨어 아키텍쳐
 
 <p align="center">
-  <img width="1062" height="772" alt="image" src="https://github.com/user-attachments/assets/529dded1-bca5-4912-95e0-1dad4a100368" />
+  <img width="1062" height="772" alt="image" src="https://github.com/user-attachments/assets/77602cc4-887e-4df3-b2c1-1f21143a3e42" />
 </p>
 
 ---
 
-> ### 4.1 로그인 페이지
+> ## 4.1 로그인 페이지
 <img width="318" height="686" alt="스크린샷 2025-09-13 오후 10 48 34" src="https://github.com/user-attachments/assets/2993b350-2821-4256-aa77-b1c9b155749a" />
 
----
-
-> ### 4.2 메인 페이지
+> ## 4.2 메인 페이지
 <img width="400" height="1300" alt="image" src="https://github.com/user-attachments/assets/7dda3871-d9b4-4d5b-9f52-baa0e8179f4c" />
 
-> ### 4.3 검색 페이지
+> ## 4.3 검색 페이지
 <img width="400" height="1300" alt="image" src="https://github.com/user-attachments/assets/7dda3871-d9b4-4d5b-9f52-baa0e8179f4c" />
 ---
 
-> ### 주요 기능
+> ## 주요 기능
 - **음식 검색**: 식/재료 검색 → 위험/안전 여부 및 AI 요리추천 또는 AI 재료 분석
 - **개인화 추천**: 주차·질환·알레르기 기반 AI
 - **AI 식단 관리**: 아침/점심/저녁 기록 및 분석  
 
 ---
 
-> ### 기술 스택
+> ## 기술 스택
 <!-- ===== Badges: Tech Stack (GitHub-safe) ===== -->
 
 <!-- Core -->
@@ -110,7 +108,7 @@ EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 �
 
 ---
 
-> ### 비즈니스 모델
+> ## 비즈니스 모델
 **Freemium (무료 + 구독)**  
 - 기본: 음식 검색/재료 분석  
 - 프리미엄: 맞춤형 식단 추천, AI 영양 분석 리포트, 가족 공유 계정  
@@ -121,7 +119,7 @@ EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 �
 
 ---
 
-> ### 추후 로드맵
+> ## 추후 로드맵
 - ✅ MVP: 음식 검색 & 위험도 확인  
 - ⬜ AI 기반 맞춤형 식단 추천  
 - ⬜ 가족/의사 계정 공유 기능  
