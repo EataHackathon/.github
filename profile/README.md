@@ -18,6 +18,7 @@ EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 �
 3.	요리·재료 단위의 확인 불가 문제 해결
 
 [배포 링크](http://eata-fe.s3-website.ap-northeast-2.amazonaws.com/)
+[스웨거 링크](http://43.203.72.175/swagger-ui/index.html)
 
 ---
 
