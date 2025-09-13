@@ -42,16 +42,20 @@ EATAMAMA는 임산부의 **주차, 질환, 알레르기** 등 **개인 건강 �
 
 
 > ### 4.1 로그인 페이지
-<img width="318" height="686" alt="로그인" src="./assets/login.png" />
 
+<p align="center">
+  <img width="318" height="686" alt="로그인" src="./assets/login.png" />
+</p>
 
 > ### 4.2 메인 페이지
-<img width="400" height="1300" alt="메인 페이지" src="./assets/main.png" />
-
+<p align="center">
+  <img width="400" height="1300" alt="메인 페이지" src="./assets/main.png" />
+</p>
 
 > ### 4.3 검색 페이지
-<img width="400" height="1300" alt="검색 페이지" src="./assets/search.png" />
-
+<p align="center">
+  <img width="400" height="1300" alt="검색 페이지" src="./assets/search.png" />
+</p>
 
 ---
 
